@@ -1,0 +1,14 @@
+C:\Workspace\TestPOC\TestPOC\bin\Debug\netcoreapp2.2\TestPOC.deps.json
+C:\Workspace\TestPOC\TestPOC\bin\Debug\netcoreapp2.2\TestPOC.runtimeconfig.json
+C:\Workspace\TestPOC\TestPOC\bin\Debug\netcoreapp2.2\TestPOC.runtimeconfig.dev.json
+C:\Workspace\TestPOC\TestPOC\bin\Debug\netcoreapp2.2\TestPOC.dll
+C:\Workspace\TestPOC\TestPOC\bin\Debug\netcoreapp2.2\TestPOC.pdb
+C:\Workspace\TestPOC\TestPOC\obj\Debug\netcoreapp2.2\TestPOC.csprojAssemblyReference.cache
+C:\Workspace\TestPOC\TestPOC\obj\Debug\netcoreapp2.2\TestPOC.csproj.CoreCompileInputs.cache
+C:\Workspace\TestPOC\TestPOC\obj\Debug\netcoreapp2.2\TestPOC.RazorAssemblyInfo.cache
+C:\Workspace\TestPOC\TestPOC\obj\Debug\netcoreapp2.2\TestPOC.RazorAssemblyInfo.cs
+C:\Workspace\TestPOC\TestPOC\obj\Debug\netcoreapp2.2\TestPOC.AssemblyInfoInputs.cache
+C:\Workspace\TestPOC\TestPOC\obj\Debug\netcoreapp2.2\TestPOC.AssemblyInfo.cs
+C:\Workspace\TestPOC\TestPOC\obj\Debug\netcoreapp2.2\TestPOC.RazorTargetAssemblyInfo.cache
+C:\Workspace\TestPOC\TestPOC\obj\Debug\netcoreapp2.2\TestPOC.dll
+C:\Workspace\TestPOC\TestPOC\obj\Debug\netcoreapp2.2\TestPOC.pdb
